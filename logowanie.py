@@ -11,4 +11,4 @@ while proby < 10:
     else:
         print(f"Niestety, hasło jest błędne {proby}/10")
 else:
-    print("Niestety, wykorzystałeś wszystkie próby..")
+    print("Niestety, wykorzystałeś wszystkie próby...")
